@@ -1,0 +1,5 @@
+What did I learn Today? - June 23, 2023
+
+Data Availability Vs Data Durability
+Data Availability - system uptime. For ex AWS S3 is up and the objects in the buckets are available for usage
+Data Durability - Data is uncorrupted in it's original form. Protecting against a hard drive failure
